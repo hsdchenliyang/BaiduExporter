@@ -1,6 +1,7 @@
 # BaiduExporter [![Build Status](https://img.shields.io/circleci/project/acgotaku/BaiduExporter/master.svg)](https://circleci.com/gh/acgotaku/BaiduExporter/tree/master)
 
 可以方便的把百度网盘的下载地址导出到 aria2/aria2-rpc，支持 YAAW。
+（修改后版本 用Axel下载  ariac2 只能最多开启 16 个线程，采用 Axel 代替 ariac2，Axel 可以设置任意连接数）
 
 ## Usage
 
